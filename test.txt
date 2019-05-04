@@ -1,1 +1,3 @@
 hello, i am new here
+git remote add origin https://github.com/laleet11/lalit11.git
+git push -u origin master
